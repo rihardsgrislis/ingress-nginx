@@ -27,8 +27,8 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tallclair/mdtoc v1.0.0
 	github.com/zakjan/cert-chain-resolver v0.0.0-20200409100953-fa92b0b5236f
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
-	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
 	google.golang.org/grpc v1.26.0
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
